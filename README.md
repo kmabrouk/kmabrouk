@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/kmabrouk" alt="kmabrouk's 42 stats" /></a>
+</p>
